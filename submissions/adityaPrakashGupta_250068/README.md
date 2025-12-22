@@ -1,9 +1,9 @@
 # Titanic Submission - Aditya Prakash Gupta
 
 ## Stats
-* **Kaggle Leaderboard Rank:** [e.g., 450/1000]
+* **Kaggle Leaderboard Rank:** 10971/16015
 * **Public Score (Accuracy):** `0.77033`
-* **Any other evaluation metrics**
+* Overall Accuracy -> `94.26%`
 
 ## Approach
 * **Model Used:** Logistic Regression
