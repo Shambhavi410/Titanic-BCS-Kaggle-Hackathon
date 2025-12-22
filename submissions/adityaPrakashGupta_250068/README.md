@@ -3,7 +3,9 @@
 ## Stats
 * **Kaggle Leaderboard Rank:** 10971/16015
 * **Public Score (Accuracy):** `0.77033`
-* Overall Accuracy -> `94.26%`
+* - Overall Accuracy -> `94.26%`
+  - Class 0 (Did not survive) Precision, Recall and f1 score -> `96%`; `95%`; `95%`
+  - Class 1 (Survived) Precision, Recall and f1 score -> `92%`; `93%`; `92%`
 
 ## Approach
 * **Model Used:** Logistic Regression
